@@ -33,28 +33,4 @@ Touch
 
 Use the directional buttons below the game board on smaller screens.
 
-Publish with GitHub Pages
-
-Create a GitHub repository.
-Upload index.html and README.md to the repository root.
-Open the repository's Settings.
-Select Pages.
-Under Build and deployment, choose Deploy from a branch.
-Select the main branch and the / (root) folder.
-Click Save.
-
-After deployment, the game will be available at:
-
-https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/
-
-Replace YOUR-USERNAME and YOUR-REPOSITORY with your GitHub username and repository name.
-
-Project structure
-
-.
-├── index.html
-└── README.md
-
-License
-
-This project is available for personal and educational use.
+ 
